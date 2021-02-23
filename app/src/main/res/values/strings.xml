@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityWithResult</string>
+    <string name="sendMessage">Sent message to the second Activity</string>
+</resources>
